@@ -6,7 +6,7 @@ package perfectchatserver;
 
 /**
  *
- * @author 3ab9ar
+ * @author abdou
  */
 import java.rmi.RemoteException;
 import java.rmi.server.UnicastRemoteObject;
