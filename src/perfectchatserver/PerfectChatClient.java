@@ -6,7 +6,7 @@ package perfectchatserver;
 
 /**
  *
- * @author 3ab9ar
+ * @author abdou
  */
 // PerfectChatClient.java
 import java.rmi.Naming;
